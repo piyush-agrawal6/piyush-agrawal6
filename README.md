@@ -1,7 +1,30 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)]()
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGzMOyYM72eUQ/profile-displaybackgroundimage-shrink_350_1400/0/1657956678744?e=1668643200&v=beta&t=ZDoNDdxWt89xK6PKZsCLqjWThYjQCz8jvh2eOZF4l2g)]()
 
 <h1 align="center">Hi 👋, I'm Piyush Agrawal</h1>
 <h3 align="center">I'm a graduate in Physical Science 🎓 from Sambalpur University Odisha 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-agrawal6&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-agrawal6" /> </p>
+
+<div>
+
+<div>
+ 
+- 🔭 I’m currently working on [E-commerce Website](https://comforting-biscuit-83ad73.netlify.app/)
+
+- 🌱 I’m currently learning **MERN STACK**
+
+- 👨‍💻 All of my projects are available at [Repos](https://github.com/piyush-agrawal6?tab=repositories)
+
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/the-piyush-agrawal/)
+
+- 💬 Ask me about **React JS**
+
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/the-piyush-agrawal/)
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YqudF6pzn_5oJRgxon9qcHVbDyPoogq2/view?usp=sharing)
+</div
+<div>
  <img
       src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
       alt="coding"
@@ -9,24 +32,8 @@
       width="400"
     />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-agrawal6&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-agrawal6" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush-agrawal6" alt="piyush-agrawal6" /></a> </p>
-
-- 🔭 I’m currently working on [ShopBag - Ecommerce Website](https://comforting-biscuit-83ad73.netlify.app/)
-
-- 🌱 I’m currently learning **MERN STACK**
-
-- 👨‍💻 All of my projects are available at [https://github.com/piyush-agrawal6?tab=repositories](https://github.com/piyush-agrawal6?tab=repositories)
-
-- 📝 I regularly write articles on [https://github.com/piyush-agrawal6?tab=repositories](https://github.com/piyush-agrawal6?tab=repositories)
-
-- 💬 Ask me about **React JS**
-
-- 📫 How to reach me **https://www.linkedin.com/in/the-piyush-agrawal/**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YqudF6pzn_5oJRgxon9qcHVbDyPoogq2/view?usp=sharing](https://drive.google.com/file/d/1YqudF6pzn_5oJRgxon9qcHVbDyPoogq2/view?usp=sharing)
-
+</div>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/the-piyush-agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the-piyush-agrawal" height="30" width="40" /></a>
