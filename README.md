@@ -24,15 +24,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YqudF6pzn_5oJRgxon9qcHVbDyPoogq2/view?usp=sharing)
 </div
-<div>
- <img
-      src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-      alt="coding"
-      align="center"
-      width="400"
-    />
 
-</div>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
