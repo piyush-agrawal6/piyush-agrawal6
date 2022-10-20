@@ -18,7 +18,6 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YqudF6pzn_5oJRgxon9qcHVbDyPoogq2/view?usp=sharing)
 
-<br>
 
 ## 👉 Languages and Tools
 
