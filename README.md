@@ -2,15 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-agrawal6&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-agrawal6" /> </p>
 
 ## :sassy_man:  About me
- I'm a graduate in Physical Science 🎓 from Sambalpur University Odisha 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+ I'm a graduate in Physical Science  from Sambalpur University Odisha . I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development  and working on my Data Structures and Algorithms .
 
 - 🔭 I’m currently working on my [Porfolio](https://piyush-agrawal6.github.io/)
 
 - 🌱 I’m currently learning **MERN STACK**
-
-- 👨‍💻 All of my projects are available at [Repos](https://github.com/piyush-agrawal6?tab=repositories)
-
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/the-piyush-agrawal/)
 
 - 💬 Ask me about **React JS**
 
@@ -41,13 +37,16 @@
 
 ## 📊 Github Stats
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/piyush-agrawal6/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=piyush-agrawal6&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush-agrawal6&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="piyush-agrawal6" height="192px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush-agrawal6&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"   alt="piyush-agrawal6" height="192px"/>
   <br/>
   </p>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhijeetsharma1/"> 
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
