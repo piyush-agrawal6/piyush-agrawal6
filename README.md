@@ -12,7 +12,7 @@
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/the-piyush-agrawal/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YqudF6pzn_5oJRgxon9qcHVbDyPoogq2/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gFYaxu-xdJ3QfySJtPubrL-_D0zQtN6-/view?usp=share_link)
 
 
 ## 👉 Languages and Tools
