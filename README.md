@@ -38,7 +38,7 @@ I'm a graduate of Physical Science from Sambalpur University Odisha. I'm a passi
 
 ## 📊 Github Stats
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush-agrawal6&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"   alt="piyush-agrawal6" height="192px"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=piyush-agrawal6&theme=halloween)](https://git.io/streak-stats)
   </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/abhijeetsharma1/"> 
