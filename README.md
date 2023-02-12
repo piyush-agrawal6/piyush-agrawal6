@@ -5,11 +5,9 @@
 ## :sassy_man:  About me
 I'm a graduate of Physical Science from Sambalpur University Odisha. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development and working on my Data Structures and Algorithms.
 
-- 🔭 I’m currently working on my [Porfolio](https://piyush-agrawal6.github.io/)
+- 🔭 I’m currently working on the [Hospital Management System](https://github.com/piyush-agrawal6/Hospital-Management-System-User-Side)
 
 - 🌱 I’m currently learning **MERN STACK**
-
-- 💬 Ask me about **React JS**
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/piyush-agrawal-me/)
 
