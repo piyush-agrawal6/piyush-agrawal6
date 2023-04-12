@@ -2,7 +2,7 @@
 <h2 align="center">MERN Stack Developer</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-agrawal6&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-agrawal6" /> </p>
 
-## :sassy_man: More About me
+## :sassy_man: About me
 I'm a graduate of Physical Science from Sambalpur University, Odisha. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development and working on my Data Structures and Algorithms.
 
 - 🔭 I’m currently working on the [Hospital Management System](https://github.com/piyush-agrawal6/Hospital-Management-System-User-Side)
