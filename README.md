@@ -7,7 +7,7 @@ I'm a graduate of Physical Science from Sambalpur University, Odisha. I'm a pass
 
 - 🔭 I’m currently working on the [Hospital Management System](https://github.com/piyush-agrawal6/Hospital-Management-System-User-Side)
 
-- 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
+- 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT**
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/piyush-agrawal-me/)
 
