@@ -28,7 +28,6 @@ I'm a graduate of Physical Science from Sambalpur University, Odisha. I'm a pass
 ![Postman](https://img.shields.io/badge/-postman-000000?style=flat&logo=postman)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 [![Portfolio](https://img.shields.io/badge/-Porfolio-000?style=flat&logo=🔭&logoColor=white)](https://piyush-agrawal6.github.io/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-agrawal-me/)
@@ -43,7 +42,6 @@ I'm a graduate of Physical Science from Sambalpur University, Odisha. I'm a pass
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
